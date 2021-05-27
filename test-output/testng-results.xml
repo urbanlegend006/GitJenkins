@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49" started-at="2021-05-27T16:27:26Z" finished-at="2021-05-27T16:27:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49" started-at="2021-05-27T16:27:26Z" finished-at="2021-05-27T16:27:26Z">
+      <class name="PrallelTestThreads.Test2">
+        <test-method status="PASS" signature="add1()[pri:0, instance:PrallelTestThreads.Test2@163e4e87]" name="add1" duration-ms="28" started-at="2021-05-27T21:57:26Z" finished-at="2021-05-27T21:57:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add1 -->
+      </class> <!-- PrallelTestThreads.Test2 -->
+      <class name="PrallelTestThreads.Test1">
+        <test-method status="PASS" signature="add1()[pri:0, instance:PrallelTestThreads.Test1@12b0404f]" name="add1" duration-ms="28" started-at="2021-05-27T21:57:26Z" finished-at="2021-05-27T21:57:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add1 -->
+      </class> <!-- PrallelTestThreads.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
