@@ -1,4 +1,4 @@
-# Created at 2021-05-27T23:06:50.074
+# Created at 2021-05-28T00:53:25.062
 Boot Manifest-JAR contains absolute paths in classpath 'E:\Eclipse\Workspace\GitJenkins\target\test-classes'
 Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
 

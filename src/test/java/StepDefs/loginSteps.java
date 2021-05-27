@@ -10,7 +10,7 @@ public class loginSteps {
 	public void user_is_at_the_page(String url) {
 		System.out.println("**************************");
 		System.out.println("The test-url is :" + url);
-	    System.out.println("**************************");
+	    
 	}
 
 	@When("user search for {string}")
