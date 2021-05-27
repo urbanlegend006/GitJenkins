@@ -8,7 +8,7 @@ public class loginSteps {
 	
 	@Given("User is at the page {string}")
 	public void user_is_at_the_page(String url) {
-	    System.out.println(url);
+	    System.out.println("The test url is :" + url);
 	}
 
 	@When("user search for {string}")
